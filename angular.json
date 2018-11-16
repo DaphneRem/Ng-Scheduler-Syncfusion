@@ -27,7 +27,17 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "./node_modules/@syncfusion/ej2-base/styles/material.css",
+              "./node_modules/@syncfusion/ej2-buttons/styles/material.css",
+              "./node_modules/@syncfusion/ej2-calendars/styles/material.css",
+              "./node_modules/@syncfusion/ej2-dropdowns/styles/material.css",
+              "./node_modules/@syncfusion/ej2-inputs/styles/material.css",
+              "./node_modules/@syncfusion/ej2-lists/styles/material.css",
+              "./node_modules/@syncfusion/ej2-navigations/styles/material.css",
+              "./node_modules/@syncfusion/ej2-popups/styles/material.css",
+              "./node_modules/@syncfusion/ej2-angular-buttons/styles/material.css",
+              "./node_modules/@syncfusion/ej2-angular-schedule/styles/material.css"
             ],
             "scripts": []
           },
@@ -76,7 +86,17 @@
             "tsConfig": "src/tsconfig.spec.json",
             "karmaConfig": "src/karma.conf.js",
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "./node_modules/@syncfusion/ej2-base/styles/material.css",
+              "./node_modules/@syncfusion/ej2-buttons/styles/material.css",
+              "./node_modules/@syncfusion/ej2-calendars/styles/material.css",
+              "./node_modules/@syncfusion/ej2-dropdowns/styles/material.css",
+              "./node_modules/@syncfusion/ej2-inputs/styles/material.css",
+              "./node_modules/@syncfusion/ej2-lists/styles/material.css",
+              "./node_modules/@syncfusion/ej2-navigations/styles/material.css",
+              "./node_modules/@syncfusion/ej2-popups/styles/material.css",
+              "./node_modules/@syncfusion/ej2-angular-buttons/styles/material.css",
+              "./node_modules/@syncfusion/ej2-angular-schedule/styles/material.css"
             ],
             "scripts": [],
             "assets": [
